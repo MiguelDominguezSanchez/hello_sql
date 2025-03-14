@@ -1,0 +1,1 @@
+SELECT CONCAT('Nombre ', name, 'Apellidos ', surname) AS 'Nombre completo' FROM users;
